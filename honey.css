@@ -1,0 +1,179 @@
+body
+{
+    margin: 0px;
+    color:#7d7070 ;
+}
+.head 
+{
+    background-color:#efebeb;
+    height: 40px;
+    width: 100%;
+    font-size: 15px;
+    color: rgb(224, 8, 19);
+    text-decoration: none;
+    
+    
+
+}
+.head nav{
+    float: right;
+    
+    margin-top: 10px
+    
+}
+.head nav a{
+    margin-right: 13px;
+    text-decoration: none;
+    color: #7d7070;
+    
+    
+}
+.logo h3{
+    font-weight: bold;
+    font-size: 39px;
+    color: #000000a1;
+    margin-top: 17px;
+    margin-left: 14px;
+    height: 2px;
+
+}
+.logo small{
+    font-size: 30px; 
+    margin-left: 19px;
+    font-size: 13px;
+    color: #191818c9;
+}
+ div.logo nav a{
+    float: right;
+    margin: 17px;
+    height: 10px;
+    width: 46px;
+    color:#7d7070;
+    text-decoration: none;
+
+}
+.mid-par p{
+    text-align: center;
+}
+p.md1 span{
+    font-weight: bolder;
+    color: #000000cf;
+
+}
+.md1{
+    font-size: 23px;
+     text-transform: capitalize;
+}
+.md2{
+    
+    font-size: 17px;
+    line-height: 0px;
+}
+p.md2 span{
+    font-weight: bolder;
+    color: #000000cf;
+}
+.col1{
+    width: 303px;
+    height: 330px;
+    margin-top: 10px;
+    text-align: justify;
+    margin-left: 26px;
+    display: inline-block;
+}
+
+.col1 img{
+    width: 303px;
+    height: 153px;
+}
+footer{
+    background-color: #ded9d982;
+    width: 100%;
+   
+}
+.f1,.f2,.f3{
+    display:inline-block ;
+    width: 100%;
+}
+.f1{
+    background-color: #ded9d9;
+    height: 49px;
+}
+.f1 p{
+    margin-left: 153px;
+}
+.f1 p span{
+    font-weight: bold;
+    
+}
+
+.f2{
+    background-color: #efebebde;
+    height: 249px ;
+}
+
+.f2one,.f2two,.f2three,.f2four{
+    width: 312px;
+    height: 216px;
+    padding: 10px;
+    text-align: justify;
+    display: inline-block;
+    float:left;
+
+}
+tr img{
+    width: 100px;
+    height: -1px;
+}
+table{
+    display: inline;
+    margin-bottom: 20px;
+}
+.f2three p{
+    font-family: bolder;
+
+}
+.f2three p {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+
+
+.f3{
+    background-color:#afafafeb;
+    height: 45px;
+
+
+}
+.f3 span{
+    font-weight: bolder;
+   
+}
+.f3 p{
+    margin-left: 30px;
+    padding:0px ;
+    
+    
+}
+.f3 a{
+    float: right;
+    margin-top: 14px;
+    margin-right: 10px;
+    color: #7d7070;
+    border:1px solid white;
+    background-color: white;
+    
+}
+.f3 nav {
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
